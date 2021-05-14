@@ -29,7 +29,7 @@ import cz.msebera.android.httpclient.Header;
 public class MainActivity extends AppCompatActivity {
 
     //    Storing the API KEY
-    final String APP_ID = "2c2178e9f421148d00f4c800866727ba";
+    final String APP_ID = "YOU HAVE TO RIGHT YOUR API KEY";
     //    holds the url of OpenWeather WEbsite
     final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather";
 
