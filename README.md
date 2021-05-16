@@ -3,7 +3,7 @@
 - User can fetch the data of any desired location.
 - Unique logo will come according to the temprature of the location.
 - Made an API call from  [OPEN WEATHER](https://openweathermap.org/) website.
-- Reading the input from the JSON file.
+- Reading the input from the JSON file .
 
 
 ### JSON File preview
